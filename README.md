@@ -5,10 +5,7 @@
 
 
   </a>
-  <a href="https://platform.openai.com/docs/api-reference">
-    <img height="32" src="public/powered-by-openai-badge-filled-on-light.svg" />
-    <br />
-  </a>
+  
   <p align="center">
     <br><br>
     Host your AI Agent Contract on Phala's decentralized serverless cloud.
