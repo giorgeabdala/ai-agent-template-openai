@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://github.com/Phala-Network/ai-agent-template-openai">
     <h1>AI Agent Contract Template with OpenAI</h1>
-    ![image](https://github.com/user-attachments/assets/4263402f-f89c-461e-906e-770fed12d4e3)
+    ![image](https://github.com/user-attachments/assets/180920f1-5e27-4581-bd1c-2caf00966e04)
+
 
     <br />
   </a>
