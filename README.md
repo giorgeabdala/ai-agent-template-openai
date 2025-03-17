@@ -4,7 +4,6 @@
     ![image](https://github.com/user-attachments/assets/180920f1-5e27-4581-bd1c-2caf00966e04)
 
 
-    <br />
   </a>
   <a href="https://platform.openai.com/docs/api-reference">
     <img height="32" src="public/powered-by-openai-badge-filled-on-light.svg" />
